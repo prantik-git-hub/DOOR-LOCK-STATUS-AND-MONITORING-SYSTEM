@@ -6,7 +6,7 @@ import urequests as rq
 
 lockstat=True
 unlockstat=True
-TELEGRAM_BOT_TOKEN = '7503505246:AAH9HlQTREtYtXAvRp1b9zIjLXfCIpjc0N8'
+TELEGRAM_BOT_TOKEN = 'some token'
 TELEGRAM_BOT_ID = '6119294750'
 TELEGRAM_API_URL = 'https://api.telegram.org/bot{}/sendMessage'.format(TELEGRAM_BOT_TOKEN)
 
